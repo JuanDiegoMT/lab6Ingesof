@@ -1,4 +1,10 @@
-# Prestamos-GRUPO
+# Miembros
+Integrante 1: Documento: 
+Integrante 2: Juan Diego Mendoza Torres Documento: 1029720696
+Integrante 3: Documento: 
+Integrante 4: Documento: 
+Integrante 5: Grupo: 
+
 
 Laboratorio 6: Testing — Ingeniería de Software II, UNAL, 2026-II.
 Proyecto Maven con Java 17 para el dominio de préstamo de equipos.
